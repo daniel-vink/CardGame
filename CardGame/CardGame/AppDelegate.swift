@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  CardGame
-//
-//  Created by macOS on 09/06/2026.
-//
 
 import UIKit
 
